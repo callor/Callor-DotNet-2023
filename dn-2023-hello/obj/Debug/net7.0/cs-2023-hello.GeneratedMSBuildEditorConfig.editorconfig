@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = cs_2023_hello
 build_property.RootNamespace = cs_2023_hello
-build_property.ProjectDir = c:\Users\callor\Documents\workspace\DotNet-Project\DotNet-2023\cs-2023-hello\
+build_property.ProjectDir = c:\Users\callor\Documents\workspace\DotNet-Project\DotNet-2023\dn-2023-hello\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\callor\Documents\workspace\DotNet-Project\DotNet-2023\cs-2023-hello
+build_property.MSBuildProjectDirectory = c:\Users\callor\Documents\workspace\DotNet-Project\DotNet-2023\dn-2023-hello
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/cs-2023-hello/Pages/Error.cshtml]
+[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/dn-2023-hello/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/cs-2023-hello/Pages/Index.cshtml]
+[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/dn-2023-hello/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/cs-2023-hello/Pages/Privacy.cshtml]
+[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/dn-2023-hello/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/cs-2023-hello/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/dn-2023-hello/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/cs-2023-hello/Pages/_ViewImports.cshtml]
+[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/dn-2023-hello/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/cs-2023-hello/Pages/_ViewStart.cshtml]
+[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/dn-2023-hello/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/cs-2023-hello/Pages/Shared/_Layout.cshtml]
+[c:/Users/callor/Documents/workspace/DotNet-Project/DotNet-2023/dn-2023-hello/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-d2nqkf0nrh
