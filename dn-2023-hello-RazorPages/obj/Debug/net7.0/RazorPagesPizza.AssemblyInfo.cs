@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("cs-2023-hello")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("RazorPagesPizza")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("cs-2023-hello")]
-[assembly: System.Reflection.AssemblyTitleAttribute("cs-2023-hello")]
+[assembly: System.Reflection.AssemblyProductAttribute("RazorPagesPizza")]
+[assembly: System.Reflection.AssemblyTitleAttribute("RazorPagesPizza")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

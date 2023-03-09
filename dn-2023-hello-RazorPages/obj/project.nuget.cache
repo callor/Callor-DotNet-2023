@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cv7Vdzw4joTICFxLes95PAoheUpj2HvML709FiiFxTzmVaki72u2wBj7wdadA55X2Ti2PKUk4+aQP+yK/692yQ==",
+  "dgSpecHash": "SOXpu4neYu8zI55AEZ1rtpaFzS1mfFNkBRy/RryE0aLTDygFnhUwmP0UuHonP/l0q9aIC8CKiEbfJs0lsneBfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\callor\\Documents\\workspace\\CSharp-Project\\CS-2023\\cs-2023-hello\\cs-2023-hello.csproj",
+  "projectFilePath": "C:\\Users\\callor\\Documents\\workspace\\DotNet-Project\\DotNet-2023\\dn-2023-hello-RazorPages\\RazorPagesPizza.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

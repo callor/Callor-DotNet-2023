@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\callor\\Documents\\workspace\\CSharp-Project\\CS-2023\\cs-2023-hello\\cs-2023-hello.csproj",
-      "projectName": "cs-2023-hello",
-      "projectPath": "C:\\Users\\callor\\Documents\\workspace\\CSharp-Project\\CS-2023\\cs-2023-hello\\cs-2023-hello.csproj",
+      "projectUniqueName": "C:\\Users\\callor\\Documents\\workspace\\DotNet-Project\\DotNet-2023\\dn-2023-hello-RazorPages\\RazorPagesPizza.csproj",
+      "projectName": "RazorPagesPizza",
+      "projectPath": "C:\\Users\\callor\\Documents\\workspace\\DotNet-Project\\DotNet-2023\\dn-2023-hello-RazorPages\\RazorPagesPizza.csproj",
       "packagesPath": "C:\\Users\\callor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\callor\\Documents\\workspace\\CSharp-Project\\CS-2023\\cs-2023-hello\\obj\\",
+      "outputPath": "C:\\Users\\callor\\Documents\\workspace\\DotNet-Project\\DotNet-2023\\dn-2023-hello-RazorPages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\callor\\AppData\\Roaming\\NuGet\\NuGet.Config"

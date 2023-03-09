@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "cs-2023-hello/1.0.0": {
+      "RazorPagesPizza/1.0.0": {
         "runtime": {
-          "cs-2023-hello.dll": {}
+          "RazorPagesPizza.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "cs-2023-hello/1.0.0": {
+    "RazorPagesPizza/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
