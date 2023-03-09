@@ -35,3 +35,10 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+
+# Visual Studio Code related
+.classpath
+.project
+.settings/
+.vscode/
